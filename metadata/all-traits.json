@@ -1,0 +1,50 @@
+[
+    {
+        "Background": "Orange",
+        "Circle": "Orange",
+        "Square": "Orange",
+        "tokenId": 0
+    },
+    {
+        "Background": "Blue",
+        "Circle": "Blue",
+        "Square": "Orange",
+        "tokenId": 1
+    },
+    {
+        "Background": "Blue",
+        "Circle": "Orange",
+        "Square": "Orange",
+        "tokenId": 2
+    },
+    {
+        "Background": "Blue",
+        "Circle": "Orange",
+        "Square": "Blue",
+        "tokenId": 3
+    },
+    {
+        "Background": "Orange",
+        "Circle": "Orange",
+        "Square": "Blue",
+        "tokenId": 4
+    },
+    {
+        "Background": "Orange",
+        "Circle": "Blue",
+        "Square": "Orange",
+        "tokenId": 5
+    },
+    {
+        "Background": "Orange",
+        "Circle": "Blue",
+        "Square": "Blue",
+        "tokenId": 6
+    },
+    {
+        "Background": "Blue",
+        "Circle": "Blue",
+        "Square": "Blue",
+        "tokenId": 7
+    }
+]
